@@ -1,0 +1,8 @@
+{
+ "design": "H0, GARCH(1,1) common volatility",
+ "R": 1000,
+ "boot_reject": 0.054,
+ "eqwise_share": 0.1281578947368421,
+ "lb12_share": 0.10671052631578946,
+ "sec": 74.1
+}

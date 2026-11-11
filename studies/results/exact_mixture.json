@@ -1,0 +1,8 @@
+{
+ "design": "H1 mixture, Gaussian",
+ "R": 500,
+ "boot_reject": 0.066,
+ "eqwise_share": 0.13873684210526316,
+ "lb12_share": 0.09934210526315787,
+ "sec": 36.8
+}

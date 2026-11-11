@@ -1,0 +1,8 @@
+{
+ "design": "H0, omitted lag-2 dynamics (c=0.55)",
+ "R": 1000,
+ "boot_reject": 0.272,
+ "eqwise_share": 0.25594736842105265,
+ "lb12_share": 0.8890789473684211,
+ "sec": 76.5
+}

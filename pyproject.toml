@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gstarx-pw"
+version = "1.0.0"
+description = "Penalized estimation and Wald testing of the spatial weight matrix in GSTARX models"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "Novri Suhermi", email = "novri.suhermi@its.ac.id"}, {name = "Puspita Kartikasari"}, {name = "Rizwan Arisandi"}]
+requires-python = ">=3.9"
+dependencies = ["numpy>=1.24", "scipy>=1.10"]
+
+[project.optional-dependencies]
+examples = ["matplotlib>=3.7", "pandas>=2.0", "pyreadr>=0.5", "jupyter"]
+test = ["pytest"]
+
+[tool.setuptools]
+packages = ["gstarx_pw"]

@@ -1,0 +1,8 @@
+{
+ "design": "H0, Gaussian",
+ "R": 1000,
+ "boot_reject": 0.045,
+ "eqwise_share": 0.1183157894736842,
+ "lb12_share": 0.10894736842105264,
+ "sec": 74.2
+}

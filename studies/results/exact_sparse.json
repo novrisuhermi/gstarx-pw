@@ -1,0 +1,8 @@
+{
+ "design": "H1 sparse, Gaussian",
+ "R": 500,
+ "boot_reject": 0.17,
+ "eqwise_share": 0.20968421052631578,
+ "lb12_share": 0.10144736842105263,
+ "sec": 37.6
+}

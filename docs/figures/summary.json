@@ -1,0 +1,42 @@
+{
+ "sim_pvalues": {
+  "uniform": 0.005,
+  "inverse distance": 0.005,
+  "4-nearest neighbours": 0.005,
+  "cross- correlation": 0.005,
+  "true W (control)": 0.615
+ },
+ "sim_N": 26,
+ "sim_kappa": 0.0,
+ "sim_mae_prior": 0.07334121177767591,
+ "sim_mae_pw": 0.022344381877077307,
+ "sim_hits": 26,
+ "size_power": {
+  "prior": [
+   0.09,
+   0.065,
+   0.06
+  ],
+  "mixture": [
+   0.09,
+   0.065,
+   0.23
+  ],
+  "sparse": [
+   0.3,
+   0.745,
+   0.99
+  ]
+ },
+ "rmse_ratio_h1": {
+  "exog": 1.0,
+  "var": 0.9103204905368295,
+  "fixed": 0.9094209489078325,
+  "pw": 0.8584932621947292
+ },
+ "wind_T": 1096,
+ "wind_p": 0.005,
+ "wind_kappa": 0.0,
+ "wind_west": 11,
+ "wind_Wtot": 865.529330622519
+}
